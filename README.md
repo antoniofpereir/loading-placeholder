@@ -9,7 +9,7 @@ Wrapper for react components.
 ```
 import LoadingPlaceholder from 'loading-placeholder';
 
-<LoadingPlaceholder mustHave={...} placeholder={} >
+<LoadingPlaceholder mustHave={...} placeholder={...} >
   ...
 </LoadingPlaceholder>
 ```
