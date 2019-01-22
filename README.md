@@ -6,9 +6,9 @@ Wrapper for react components.
 
 **placeholder:** The placeholder that will be rendered while waiting for data.
 
+```
 import LoadingPlaceholder from 'loading-placeholder';
 
-```
 <LoadingPlaceholder mustHave={...} placeholder={} >
   ...
 </LoadingPlaceholder>
